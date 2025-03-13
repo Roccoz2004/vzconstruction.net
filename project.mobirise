@@ -60,7 +60,7 @@
         "url": "https://fonts.googleapis.com/css?family=Inconsolata:200,300,400,500,600,700,800,900"
       }
     ],
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "6.0.1",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -1114,7 +1114,7 @@
             }
           },
           "_name": "design-block",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\" \" plugins group=\"Dahomy Widgets\">\n<mbr-parameters>\n     <header>©Dahomy</header>\n     <input type=\"checkbox\" title=\"Show Instruction\" name=\"ShowInstruction\"> \n   <header>HOW TO EMBED PDF?\n   <br>\n  1- Give a path to your PDF\n  <br>OR\n  <br>\n  2- Use the link bellow and browse to your PDF path given by Mobirise and then copy your path to this input area.Don't forget to hide Instruction\n   </header> \n <input type=\"text\" title=\"PDF LINK\" name=\"pdflink\" value=\"assets/files/Vincent-ZunigaConstructionIncCapabilityStatement.pdf\">\n</mbr-parameters>\n<embed src=\"{{pdflink}}\" type=\"application/pdf\" width=\"100%\" height=\"95vh\" frameborder=\"0\" scrolling=\"0\" style=\"height: 95vh;\" seamless=\"seamless\" allowfullscreen=\"allowfullscreen\">\n\n<p class=\"text-center fs-4\" mbr-if=\"ShowInstruction\"><a href=\"assets/files/Vincent-ZunigaConstructionIncCapabilityStatement.pdf\" class=\"text-primary\">Charge your PDF with this link and see your generate link in code source : line 16</a></p>\n</section>",
+          "_customHTML": "<section class=\" \" plugins group=\"Dahomy Widgets\">\n<mbr-parameters>\n     <header>©Dahomy</header>\n     <input type=\"checkbox\" title=\"Show Instruction\" name=\"ShowInstruction\"> \n   <header>HOW TO EMBED PDF?\n   <br>\n  1- Give a path to your PDF\n  <br>OR\n  <br>\n  2- Use the link bellow and browse to your PDF path given by Mobirise and then copy your path to this input area.Don't forget to hide Instruction\n   </header> \n <input type=\"text\" title=\"PDF LINK\" name=\"pdflink\" value=\"assets/files/Vincent-Zuniga-Construction-Inc-Capability-Statement.pdf\">\n</mbr-parameters>\n<embed src=\"{{pdflink}}\" type=\"application/pdf\" width=\"100%\" height=\"95vh\" frameborder=\"0\" scrolling=\"0\" style=\"height: 95vh;\" seamless=\"seamless\" allowfullscreen=\"allowfullscreen\">\n\n<p class=\"text-center fs-4\" mbr-if=\"ShowInstruction\"><a href=\"assets/files/Vincent-Zuniga-Construction-Inc-Capability-Statement.pdf\" class=\"text-primary\">Charge your PDF with this link and see your generate link in code source : line 16</a></p>\n</section>",
           "_cid": "RP2ejJDdR3",
           "_anchor": "design-block-RP2ejJDdR3",
           "_sourceTheme": "startm5",
